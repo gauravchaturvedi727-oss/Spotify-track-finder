@@ -44,11 +44,13 @@ Spotify-Track-Finder
 
 ### Home Page
 
-_Add a screenshot here_
+<img width="1861" height="918" alt="Screenshot 2026-06-27 012719" src="https://github.com/user-attachments/assets/1c849fb7-d4c6-47d6-ba50-49c910f2306d" />
+
 
 ### Track Details
 
-_Add a screenshot here_
+<img width="1907" height="942" alt="Screenshot 2026-06-27 012838" src="https://github.com/user-attachments/assets/be8b5981-3dda-47f0-a914-091905cc99cd" />
+
 
 ---
 
